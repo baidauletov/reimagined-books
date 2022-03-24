@@ -1,3 +1,3 @@
-'Good books to read' list:
+###'Good books to read' list:
 
-Дуглас Крокфорд - Javasript: Сильные стороны
+- Дуглас Крокфорд - Javasript: Сильные стороны
